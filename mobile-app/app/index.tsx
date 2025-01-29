@@ -11,6 +11,7 @@ const App = () => {
         }
         style={{ padding: 10, backgroundColor: "blue", borderRadius: 5 }}
       >
+        <a></a>
         <Text style={{ color: "white" }}>Visit GitHub Repo</Text>
       </TouchableOpacity>
       <TouchableOpacity
