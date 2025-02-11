@@ -1,0 +1,29 @@
+{
+  "name": "country-app",
+  "version": "1.0.0",
+  "main": "expo-router/entry",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web"
+  },
+  "dependencies": {
+    "@expo/vector-icons": "^14.0.4",
+    "@gorhom/bottom-sheet": "^5.1.1",
+    "axios": "^1.7.9",
+    "expo": "~52.0.31",
+    "expo-router": "^4.0.17",
+    "expo-status-bar": "~2.0.1",
+    "react": "18.3.1",
+    "react-native": "0.76.7",
+    "react-native-modal": "^13.0.1",
+    "react-native-swiper-flatlist": "^3.2.5",
+    "react-native-reanimated": "~3.16.1",
+    "react-native-gesture-handler": "~2.20.2"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.20.0"
+  },
+  "private": true
+}
